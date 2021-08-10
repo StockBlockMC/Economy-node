@@ -9,7 +9,7 @@ import java.io.ByteArrayOutputStream;
 import java.io.DataOutputStream;
 import java.io.IOException;
 
-public final class Main extends JavaPlugin implements Listener, PluginMessageListener {
+public final class EconomyNode extends JavaPlugin implements Listener, PluginMessageListener {
 
     @Override
     public void onEnable() {

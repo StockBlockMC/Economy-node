@@ -1,6 +1,6 @@
 name: Economy
 version: ${project.version}
-main: uk.co.hopperelec.mc.economynode.Main
+main: uk.co.hopperelec.mc.economynode.EconomyNode
 api-version: 1.16
 prefix: Economy
 authors: [ HopperElecYT ]
